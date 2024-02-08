@@ -1,1 +1,1 @@
-## Ejercicios realizados en la materia Teoria de Lenguajes de la Licenciatura en Informática
+Ejercicio realizado para aprender sobre los Tipos de Datos Abstractos (TDA).
